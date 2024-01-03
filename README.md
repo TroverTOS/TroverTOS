@@ -8,7 +8,7 @@
 <img src="javascript.svg" width="32" height="32" alt="Javascript" />
 <img src="node-js.svg" width="32" height="32" alt="NodeJS" />
 <img src="python.svg" width="32" height="32" alt="Python" />
-<img src="windows.svg" width="32" height="32" alt="Python" />
+<img src="windows.svg" width="32" height="32" alt="Windows" />
 </p>
 
 
