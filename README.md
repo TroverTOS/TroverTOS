@@ -44,9 +44,6 @@
   <a href="https://discord.com/users/696042610279841852" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="breezien"  />
   </a>
-  <a href="https://t.me/EH800" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
