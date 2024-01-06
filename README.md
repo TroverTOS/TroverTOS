@@ -1,19 +1,52 @@
-<h1 align="center">hallo 👋, I'm Trover 😱😱😱</h1>
+<h1 align="center">Hi</h1>
 
-<h2 align="center">Experiences</h2>
+###
 
-<p align="center">
-<img src="html5.svg" width="32" height="32" alt="HTML"/>
-<img src="css3.svg" width="32" height="32" alt="CSS" />
-<img src="javascript.svg" width="32" height="32" alt="Javascript" />
-<img src="node-js.svg" width="32" height="32" alt="NodeJS" />
-<img src="python.svg" width="32" height="32" alt="Python" />
-<img src="windows.svg" width="32" height="32" alt="Windows" />
-</p>
+<p align="left">im trover fr, i like coding and NW</p>
 
+###
 
-<h2 align="center">Bio</h2>
+<h2 align="left">About me</h2>
 
-<div align="center">
-  <img src="https://e-z.bio/romania"> 
+###
+
+<p align="left">✨ Working on some NW stat tracker thing</a><br>📚 I'm currently learning JavaScript</p>
+
+###
+
+<h2 align="left">I code:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/696042610279841852" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="breezien"  />
+  </a>
+  <a href="https://t.me/EH800" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
